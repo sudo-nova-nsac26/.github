@@ -1,16 +1,21 @@
-# Sudo Nova
+<div align="center">
 
-<p align="center">
-  <img src="../assets/sudo-nova-logo.jpeg" alt="Sudo Nova logo" width="240">
-</p>
+<h1>Sudo Nova</h1>
 
-<p align="center">
-  <strong>From open-source curiosity to real-world impact.</strong>
-</p>
+<a href="https://sudonova.surfacesignal.earth/">
+  <img src="https://raw.githubusercontent.com/sudo-nova-nsac26/sudo-nova-portfolio/main/public/images/sudo-nova-logo-transparent.png" alt="Sudo Nova astronaut penguin mascot" width="220" />
+</a>
 
-<p align="center">
-  <strong>English</strong> · <a href="./README.pt-BR.md">Português</a>
-</p>
+<p><strong>From open-source curiosity to real-world impact.</strong></p>
+<p>Engineering, software, and data. Together.</p>
+
+<p><strong>English</strong> · <a href="./README.pt-BR.md">Português</a></p>
+
+<p><a href="https://sudonova.surfacesignal.earth/">Website</a> · <a href="https://sudonova.surfacesignal.earth/#projetos">Projects</a> · <a href="https://sudonova.surfacesignal.earth/#equipe">Team</a> · <a href="https://sudonova.surfacesignal.earth/#contato">Contact</a></p>
+
+</div>
+
+---
 
 ## Who we are
 
