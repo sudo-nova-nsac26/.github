@@ -4,9 +4,13 @@
   <img src="../assets/sudo-nova-logo.jpeg" alt="Sudo Nova logo" width="240">
 </p>
 
-**From open-source curiosity to real-world impact.**
+<p align="center">
+  <strong>From open-source curiosity to real-world impact.</strong>
+</p>
 
-**English** · [Português](./README.pt-BR.md)
+<p align="center">
+  <strong>English</strong> · <a href="./README.pt-BR.md">Português</a>
+</p>
 
 ## Who we are
 
