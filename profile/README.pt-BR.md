@@ -1,16 +1,21 @@
-# Sudo Nova
+<div align="center">
 
-<p align="center">
-  <img src="../assets/sudo-nova-logo.jpeg" alt="Logotipo da Sudo Nova" width="240">
-</p>
+<h1>Sudo Nova</h1>
 
-<p align="center">
-  <strong>Da curiosidade pelo código ao impacto no mundo real.</strong>
-</p>
+<a href="https://sudonova.surfacesignal.earth/">
+  <img src="https://raw.githubusercontent.com/sudo-nova-nsac26/sudo-nova-portfolio/main/public/images/sudo-nova-logo-transparent.png" alt="Mascote pinguim astronauta da Sudo Nova" width="220" />
+</a>
 
-<p align="center">
-  <a href="./README.md">English</a> · <strong>Português</strong>
-</p>
+<p><strong>Da curiosidade pelo código aberto ao impacto no mundo real.</strong></p>
+<p>Engenharia, software e dados. Em conjunto.</p>
+
+<p><a href="./README.md">English</a> · <strong>Português</strong></p>
+
+<p><a href="https://sudonova.surfacesignal.earth/">Site</a> · <a href="https://sudonova.surfacesignal.earth/#projetos">Projetos</a> · <a href="https://sudonova.surfacesignal.earth/#equipe">Equipe</a> · <a href="https://sudonova.surfacesignal.earth/#contato">Contato</a></p>
+
+</div>
+
+---
 
 ## Quem somos
 
