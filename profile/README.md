@@ -10,7 +10,7 @@
 
 ## Who we are
 
-**Sudo Nova** is an independent technology team based in Brazil, bringing together interests in Linux, open-source software, software & eletrical engineering, data, artificial intelligence, and space science.
+**Sudo Nova** is an independent technology team based in Brazil, bringing together interests in Linux, open-source software, software & electrical engineering, data, artificial intelligence, and space science.
 
 We came together around the **[NASA Space Apps Challenge 2026](https://www.spaceappschallenge.org/2026/)**, with a simple goal: turn scientific and technical ideas into useful, understandable tools. Our name reflects both our roots in Linux culture (`sudo`) and our curiosity about the universe (`nova`).
 
@@ -29,13 +29,29 @@ We believe meaningful technology should be **technically sound, scientifically g
 - **AI and visualization:** responsible analysis and interfaces that make complex information easier to interpret.
 - **Open-source collaboration:** learning in public, sharing knowledge, and building together.
 
-## Current focus: SurfaceSignal
+## Featured Project: SurfaceSignal
 
-Our initial project, **SurfaceSignal**, is an exploration of how satellite radar observations can help people understand changes on Earth's surface.
+**[SurfaceSignal — Making Earth's Changes Understandable](https://surfacesignal.earth)** is an interactive Earth observation platform developed by Sudo Nova for the **[Dancing with the SARs](https://www.spaceappschallenge.org/2026/challenges/dancing-with-the-sars/)** challenge at NASA Space Apps 2026.
 
-Inspired by the **[“Dancing with the SARs”](https://www.spaceappschallenge.org/2026/challenges/dancing-with-the-sars/)** Space Apps challenge, we are investigating data from the **NASA–ISRO Synthetic Aperture Radar (NISAR)** mission, initially focusing on flooding and environmental change in **Lajeado and the Vale do Taquari region of Rio Grande do Sul, Brazil**.
+Using **NASA–ISRO NISAR** satellite radar observations, SurfaceSignal helps people explore changes on Earth's surface, starting with **Lajeado, Estrela, and the Taquari Valley in Rio Grande do Sul, Brazil**.
 
-The project is in its early stages. We are prioritizing data validation, scientific transparency, and the communication of uncertainty before treating any result as actionable evidence. Our aim is to develop methods that can later be adapted to other regions.
+Our pilot brings together:
+
+- **19 real NISAR acquisitions** and **17 historical radar comparisons** from approximately **131 GB of original HDF5 data**.
+- Complementary environmental context from **CHIRPS, JRC Global Surface Water, ESA WorldCover, Copernicus DEM, IBGE, and SGB**.
+- Interactive **2D/3D geographic visualization**, time-based comparisons, and plain-language explanations in **English and Portuguese**.
+- Documented processing methods, source attribution, and scientific limitations.
+
+SurfaceSignal is an **exploratory historical analysis platform**, not a flood prediction or emergency alert service. Radar-change candidates do not constitute independently confirmed environmental impacts.
+
+### Explore the project
+
+- **[Live Application](https://surfacesignal.earth)**
+- **[NASA Space Apps Project Submission](https://www.spaceappschallenge.org/2026/find-a-team/sudo-nova/?tab=project)**
+- **[Project Presentation (PDF)](https://github.com/sudo-nova-nsac26/presentation/blob/main/Surface%20Signal%20-%20Presentation.pdf)**
+- **[Sudo Nova Team Portfolio](https://sudonova.surfacesignal.earth)**
+
+Our aim is to make complex Earth observation evidence understandable, transparent, and accessible to everyone.
 
 ## Build with us
 
