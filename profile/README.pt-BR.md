@@ -4,9 +4,13 @@
   <img src="../assets/sudo-nova-logo.jpeg" alt="Logotipo da Sudo Nova" width="240">
 </p>
 
-**Da curiosidade pelo código ao impacto no mundo real.**
+<p align="center">
+  <strong>Da curiosidade pelo código ao impacto no mundo real.</strong>
+</p>
 
-[English](./README.md) · **Português**
+<p align="center">
+  <a href="./README.md">English</a> · <strong>Português</strong>
+</p>
 
 ## Quem somos
 
