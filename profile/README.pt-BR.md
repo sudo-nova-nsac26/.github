@@ -29,13 +29,29 @@ Acreditamos que uma tecnologia relevante deve ser **tecnicamente sólida, cienti
 - **IA e visualização:** análises responsáveis e interfaces que facilitem a interpretação de informações complexas.
 - **Colaboração open source:** aprender de forma aberta, compartilhar conhecimento e construir em conjunto.
 
-## Foco atual: SurfaceSignal
+## Projeto em destaque: SurfaceSignal
 
-Nosso projeto inicial, **SurfaceSignal**, investiga como observações de radar por satélite podem ajudar pessoas a compreender mudanças na superfície terrestre.
+O **[SurfaceSignal — Tornando as mudanças da Terra compreensíveis](https://surfacesignal.earth)** é uma plataforma interativa de observação da Terra desenvolvida pela Sudo Nova para o desafio **[Dancing with the SARs](https://www.spaceappschallenge.org/2026/challenges/dancing-with-the-sars/)** do NASA Space Apps 2026.
 
-Inspirados pelo desafio **[“Dancing with the SARs”](https://www.spaceappschallenge.org/2026/challenges/dancing-with-the-sars/)** do Space Apps, estamos explorando dados da missão **NASA–ISRO Synthetic Aperture Radar (NISAR)**, com foco inicial em inundações e mudanças ambientais em **Lajeado e no Vale do Taquari, no Rio Grande do Sul**.
+Utilizando observações de radar da missão **NASA–ISRO NISAR**, o SurfaceSignal ajuda a explorar mudanças na superfície terrestre, começando por **Lajeado, Estrela e o Vale do Taquari, no Rio Grande do Sul**.
 
-O projeto está em fase inicial. Priorizamos a validação dos dados, a transparência científica e a comunicação de incertezas antes de tratar qualquer resultado como evidência para tomada de decisão. Nossa intenção é desenvolver métodos que posteriormente possam ser adaptados a outras regiões.
+Nosso projeto piloto reúne:
+
+- **19 aquisições reais do NISAR** e **17 comparações históricas de radar**, a partir de aproximadamente **131 GB de dados HDF5 originais**.
+- Contexto ambiental complementar de **CHIRPS, JRC Global Surface Water, ESA WorldCover, Copernicus DEM, IBGE e SGB**.
+- Visualização geográfica interativa **2D/3D**, comparações temporais e explicações acessíveis em **português e inglês**.
+- Métodos de processamento documentados, atribuição das fontes e limitações científicas.
+
+O SurfaceSignal é uma **plataforma exploratória de análise histórica**, não um serviço de previsão de inundações ou alerta de emergência. Os candidatos a mudanças detectados por radar não representam impactos ambientais confirmados de forma independente.
+
+### Explore o projeto
+
+- **[Aplicação publicada](https://surfacesignal.earth)**
+- **[Submissão ao NASA Space Apps](https://www.spaceappschallenge.org/2026/find-a-team/sudo-nova/?tab=project)**
+- **[Apresentação do projeto (PDF)](https://github.com/sudo-nova-nsac26/presentation/blob/main/Surface%20Signal%20-%20Presentation.pdf)**
+- **[Portfólio da equipe Sudo Nova](https://sudonova.surfacesignal.earth)**
+
+Nosso objetivo é tornar as evidências complexas de observação da Terra compreensíveis, transparentes e acessíveis a todos.
 
 ## Construa conosco
 
